@@ -68,4 +68,4 @@ Identifying opportunities for targeted promotions and marketing initiatives enha
 - Since order volumes are higher between 12 PM and 1 PM, introduce lunch specials or discounts during these hours to attract more customers and increase order sizes.
 - Focus marketing efforts on time slots between 12 PM and 1 PM, which show consistently higher order volumes. Implement time-limited offers or happy hour deals during these periods to maximize sales.
 - Strengthen loyalty programs to encourage repeat purchases, Offer exclusive deals or early access to promotions for loyalty program members.
-- Use data insights to tailor promotions and marketing campaigns. For example, offering discounts or special menu items during football season can capitalize on the observed 15% increase in sales during this period.
+- Use data insights to tailor promotions and marketing campaigns. 
