@@ -13,7 +13,7 @@
 ---
 The analysis of this project is to understanding customer behavior, identifying bestsellers, determining peak hours, calculating total revenue, and planning promotional strategies. The objective of this project is to analyze a year's worth of sales data from a fictitious pizza place to derive actionable insights.
 
-![Dashboard](https://github.com/FebeianBELLO/pizza-sales-insights/blob/main/slice.png)
+![Dashboard](https://github.com/FebeianBELLO/pizza-sales-insights/blob/main/tomato%20pizz.png)
 
 
 ### Data sources 
