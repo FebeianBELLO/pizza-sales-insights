@@ -63,16 +63,9 @@ Source:Vincent Arel-Bundock (Rdatasets)
 ---
 - Ensure adequate staffing and inventory levels on high-traffic days like November 26 and July 4. Given the peak hours at 12 PM, 1 PM, and 7 PM, focus on these times for staffing adjustments and ingredient stock.
 - Highlight the "ckn_alfredo" pizza in marketing campaigns and promotions, considering its high sales volume. Introduce special deals or combos featuring this popular item to boost sales further.
-Seasonal Promotions:
 - Capitalize on the high sales revenue in July by launching seasonal promotions. Consider offering summer-themed pizzas or discounts during this peak month to attract more customers and increase revenue.
-Address Low-Traffic Periods:
 -Analyze and implement strategies to boost sales on low-traffic days like December 31. Consider special New Year’s Eve promotions or limited-time offers to encourage more orders.
-Maximize Mid-Day Sales:
 - Since order volumes are higher between 12 PM and 1 PM, introduce lunch specials or discounts during these hours to attract more customers and increase order sizes.
-Leverage Customer Order Patterns:
--Focus marketing efforts on time slots between 2 PM and 1 PM, which show consistently higher order volumes. Implement time-limited offers or happy hour deals during these periods to maximize sales.
-Enhanced Customer Loyalty Programs:
-- Strengthen loyalty programs to encourage repeat purchases, as 30% of monthly revenue comes from repeat customers. Offer exclusive deals or early access to promotions for loyalty program members.
-Weekend Promotions:
-- Given the increase in orders on Saturdays, introduce weekend-specific promotions or family meal deals to drive higher sales volumes during weekends.
+-Focus marketing efforts on time slots between 12 PM and 1 PM, which show consistently higher order volumes. Implement time-limited offers or happy hour deals during these periods to maximize sales.
+- Strengthen loyalty programs to encourage repeat purchases, Offer exclusive deals or early access to promotions for loyalty program members.
 - Use data insights to tailor promotions and marketing campaigns. For example, offering discounts or special menu items during football season can capitalize on the observed 15% increase in sales during this period.
