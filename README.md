@@ -41,12 +41,12 @@ Source:Vincent Arel-Bundock (Rdatasets)
 - Identifies opportunities for targeted promotions and marketing initiatives.
 ### key Analysis 
 ---
-- knowing the numbers of customer for each day, Aligning staff schedules with peak hours enhances operational efficiency and maximizes engagement and sales through targeted marketing campaigns.
-- using data to identify the best selling products, while promoting combo deals and special offers to increase average order value.
+- knowing the number of customers for each day and aligning staff schedules with peak hours enhances operational efficiency and maximizes engagement and sales through targeted marketing campaigns.
+- Use data to identify the best-selling products, while promoting combo deals and special offers to increase average order value.
 - Identifying high and low demand periods provides valuable insights for improving marketing strategies and business operations.
 - Sales data drives menu optimization and strategic product placement, focusing on advertising bestsellers to attract repeat customers and new buyers.
 - Financial performance analysis aids in budget planning and forecasting, ensuring overall financial health and profitability.
-- Identifying opportunities for targeted promotions and marketing initiatives enhances customer engagement and drives revenue growth.
+Identifying opportunities for targeted promotions and marketing initiatives enhances customer engagement and drives revenue growth.
 
 ![Dashboard](https://github.com/FebeianBELLO/pizza-sales-insights/blob/main/The%20pizza%20Dashboard.png)
 
