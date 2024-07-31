@@ -11,7 +11,8 @@
 
 ### project overview
 ---
-The analysis of this project is to understanding customer behavior, identifying bestsellers, determining peak hours, calculating total revenue, and planning promotional strategies. The objective of this project is to analyze a year's worth of sales data from a fictitious pizza place to derive actionable insights. 
+The analysis of this project is to understanding customer behavior, identifying bestsellers, determining peak hours, calculating total revenue, and planning promotional strategies. The objective of this project is to analyze a year's worth of sales data from a fictitious pizza place to derive actionable insights.
+
 ![Dashboard](https://github.com/FebeianBELLO/pizza-sales-insights/blob/main/slice.png)
 
 
@@ -47,7 +48,7 @@ Source:Vincent Arel-Bundock (Rdatasets)
 - Financial performance analysis aids in budget planning and forecasting, ensuring overall financial health and profitability.
 - Identifying opportunities for targeted promotions and marketing initiatives enhances customer engagement and drives revenue growth.
 
-![Dashboard](https://github.com/FebeianBELLO/Bank-of-America-Consumer-Complaints-Analysis/blob/main/ori.png)
+![Dashboard](https://github.com/FebeianBELLO/pizza-sales-insights/blob/main/The%20pizza%20Dashboard.png)
 
 
 ### Analysis findings 
