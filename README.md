@@ -54,8 +54,8 @@ Source:Vincent Arel-Bundock (Rdatasets)
 ### Analysis findings 
 ---
 - The highest peak occurred on November 26, 2015, with 261 customers. The busiest times were at 12 PM and 7 PM, each with 40 orders.
--The "ckn_alfredo" pizza had the highest quantity purchased, totaling 897 units.
--The majority of sales revenue was recorded in July, totaling $72,558. The specific day was  July 4, 2015, with the peak hour at 1 PM. A total of 4,301 orders were placed in July.
+- The "ckn_alfredo" pizza had the highest quantity purchased, totaling 897 units.
+- The majority of sales revenue was recorded in July, totaling $72,558. The specific day was  July 4, 2015, with the peak hour at 1 PM. A total of 4,301 orders were placed in July.
 - The lowest peak occurred on December 31, 2015, with 73 orders. The busiest hour was 11 AM, with 17 orders placed and a total of 82 quantities of products sold, generating $1,338 in total sales.
 - Customer Order Patterns between 2 PM and 1 PM, consistently showed higher order volumes compared to other times.
 
